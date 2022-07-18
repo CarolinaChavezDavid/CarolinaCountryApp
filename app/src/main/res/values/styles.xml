@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="country_card_titles_style">
+        <item name="android:fontFamily">@font/interstate_regular</item>
+        <item name="android:layout_marginTop">@dimen/dimen_16</item>
+        <item name="android:textSize">@dimen/dimen_20_sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="country_card_values_style">
+        <item name="android:fontFamily">@font/interstate_regular</item>
+        <item name="android:textSize">@dimen/dimen_18_sp</item>
+    </style>
+</resources>

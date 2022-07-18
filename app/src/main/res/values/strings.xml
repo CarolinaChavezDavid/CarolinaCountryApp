@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CountryAppByCaro</string>
+    <string name="fragment_introduction_title">Choose a card</string>
+    <string name="country_item_country_title">Country</string>
+    <string name="country_item_country_example">Colombia</string>
+    <string name="country_item_capital_title">Capital</string>
+    <string name="country_item_capital_example">Bogota</string>
+    <string name="country_item_region_title">Region</string>
+    <string name="country_item_region_example">America</string>
+    <string name="country_item_currency_title">Currency</string>
+    <string name="country_item_language_title">Language</string>
+    <string name="country_flag_base_url">https://flagpedia.net/data/flags/w1160/%1$s.webp/</string>
+    <string name="search">search</string>
+    <string name="page_title">Country App by Caro</string>
+    <string name="page_detail_title">%1$s Information</string>
+
+</resources>
